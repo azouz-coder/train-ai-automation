@@ -1,0 +1,35 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded files
+uploads/
+avatars/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/generated images
+large_file.png
+test_image_large.png
+
+#Test images
+test_image.*
+watsup.jpeg
+carbon (49).png
